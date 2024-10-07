@@ -1,7 +1,43 @@
 ## Revisão Prova 1º Bimestre - Gestão e Administração de Redes
 
 ### Importância da parte de gerenciamento
-- 
+### Conceitos Fundamentais
+- Hoje, as redes de computadores têm importância capital em todo tipo de organização: 
+    * Grandes corporações; 
+    * Órgãos e empresas públicas;
+    * Pequenas empresas; 
+    * Usuários domésticos. 
+- o cara nem sabe o que é rede, mas não vive sem Internet
+
+### Gerenciamento de Redes
+- Gerenciamento de rede inclui a disponibilização, a integração e a coordenação de elementos de hardware, software e humanos, para monitorar, testar, consultar, configurar, analisar, avaliar e controlar os recursos da rede, e de elementos, para satisfazer às exigências operacionais, de desempenho e de qualidade de serviço em tempo real a um custo razoável
+
+- Controlar o uso dos recursos - Saber quem, como e para que, está conectado;
+- Melhorar o uso dos recursos – Otimização;
+- Reduzir custos - Recursos são muito caros para serem desperdiçados;
+- Serviço essencial deve estar sempre disponível ­ Redes são tão essenciais quanto água, luz, telefone.
+
+### Serviços Integrados
+- Voz e dados integrados na mesma rede:
+    * extinção da distinção entre redes de dados e de voz
+
+- Consolidação das operadoras de telecomunicações como provedores de acesso à Internet;
+
+- Integração total de todas as áreas de comunicações dentro das empresas e órgãos públicos;
+
+- Integração de todos os serviços disponibilizados ao usuário final.
+
+#### Novas gerações de redes de telecomunicações possibilitam:
+- Disponibilização rápida de novos serviços:
+    * VoIP, Video Strem, Video on Demand (VoD), telemedicina, HDTV, IPTV,... 
+    * Jogos em rede
+    * Novos equipamentos e “gadgets” on-line 
+
+- Gerenciamento de Redes assume outros níveis de importância:
+    * Maior demanda sobre as redes de computadores implica maior criticidade;
+    * Maior demanda de qualidade das redes;
+    * Maiores requisitos de segurança e estabilidade;
+    * Mais agilidade na solução dos problemas. 
 
 ### IoT
 - Celulares, relógios
